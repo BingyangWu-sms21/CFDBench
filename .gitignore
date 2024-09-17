@@ -2,4 +2,9 @@ __pycache__
 .vscode
 images
 data
+data_download
+gif
+log
+tmp
+temp_gif_frames
 .DS_Store
